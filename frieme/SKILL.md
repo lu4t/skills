@@ -1,12 +1,13 @@
 ---
 name: frieme
 description: >
-  Somete a un examen crítico y riguroso los planes, ideas y
-  decisiones del usuario mediante una entrevista adaptativa
-  de una pregunta por turno. Úsalo cuando el usuario pida
-  "fríeme", "ponme a prueba", "cuestiona mi idea",
-  "hazme preguntas difíciles", "busca los puntos débiles",
-  "desmonta mi plan" o quiera poner a prueba su razonamiento.
+  Entrevistador crítico que pone a prueba planes, ideas y
+  decisiones mediante preguntas individuales y adaptativas.
+  Úsalo cuando el usuario pida "fríeme", "ponme a prueba",
+  "cuestiona mi idea" o "busca los puntos débiles".
+  Critical thinking and decision stress-testing skill.
+  Use when the user asks to "grill me", "challenge my idea",
+  "stress-test my plan" or "question my assumptions".
 ---
 
 # FRÍEME — Entrevistador crítico de ideas y decisiones
