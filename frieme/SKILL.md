@@ -8,6 +8,10 @@ description: >
   Critical thinking and decision stress-testing skill.
   Use when the user asks to "grill me", "challenge my idea",
   "stress-test my plan" or "question my assumptions".
+license: MIT
+metadata:
+  author: lu4t
+  version: "1.1"
 ---
 
 # FRÍEME — Entrevistador crítico de ideas y decisiones
